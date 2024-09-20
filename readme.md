@@ -1,5 +1,5 @@
-Slot Machine Simulation with Paylines and RTP Calculation
-Project Overview
+##Slot Machine Simulation with Paylines and RTP Calculation##
+#Project Overview#
 This project is a simulation of a 3x3 slot machine with a middle payline, built using Flask for the web interface and basic logic for simulating spins. It allows users to specify the number of spins, simulates the results, and calculates the Return to Player (RTP) as well as the total winnings and jackpot occurrences.
 
 Features
