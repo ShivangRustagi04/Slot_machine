@@ -1,0 +1,30 @@
+/* styles.css */
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.slot-machine {
+    text-align: center;
+}
+
+img {
+    width: 300px; /* Adjust based on the image size */
+}
+
+.result-display {
+    margin: 20px 0;
+    font-size: 1.5em;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 1.2em;
+    cursor: pointer;
+}
